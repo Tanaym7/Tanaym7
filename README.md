@@ -1,5 +1,5 @@
 ### hello,folks 🌏
-<img src= "https://github.com/Tanaym7/Tanaym7/blob/main/githeader.gif" width="500"/>
+<img src= "https://github.com/Tanaym7/Tanaym7/blob/main/githeader%20(1).gif" width="500"/>
 I'm a coder and occasional designer who loves making high-quality websites and applications (see above😁). I'm a college student and I also love to explore new tech.
 
 <h3 align="center">trying to figure-out stuff!!</h3>

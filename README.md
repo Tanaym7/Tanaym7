@@ -1,6 +1,6 @@
 ### hello,folks 🌏
 <img src= "https://github.com/Tanaym7/Tanaym7/blob/main/githeader%20(1).gif" width="500"/>
-I'm a coder and occasional designer who loves making high-quality websites and applications (above 😁). I'm a college student and I also love to explore new tech.
+I'm a coder and occasional designer who loves making high-quality websites and applications (above 😁). I'm a college student and I love to explore new tech.
 
 <h3 align="center">When something is important enough, you do it even if the odds are not in your favor.</h3>
 

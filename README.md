@@ -18,7 +18,7 @@ I'm a coder and occasional designer who loves making high-quality websites and a
 
 - ⏳ In spare time I use :👉**Ps, maya, zbrush otherwise play guitar and read blogs and books**
 
-- ⚡ Fun fac :👉 **The first computer bug was an actual bug**
+- ⚡ Fun fact :👉 **The first computer bug was an actual bug**
 
 I use sumblime text and vim... 
 

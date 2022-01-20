@@ -8,8 +8,6 @@ I'm a coder and occasional designer who loves making high-quality websites and a
 
 - 🔭 I’m currently working on:👉**https://taanaym18.cf/**
 
-- 📫 How to reach me :👉**tanaaym@gmail.com**
-
 - 🌱 I’m currently learning :👉**react, vue, blockchain**
 
 - 💬 Ask me about :👉**c++, python, react, vue**
